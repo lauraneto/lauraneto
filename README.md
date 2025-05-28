@@ -4,9 +4,7 @@
 </picture>
 <h2>👋 About</h2>
 
-- .NET Developer @ [**DEPT**](https://www.deptagency.com)
-- Umbraco MVP
-- Umbraco Core Collaborators Community Team
+- Software Developer @ [**Umbraco**](https://www.umbraco.com)
 
 <p>  
   <picture>
